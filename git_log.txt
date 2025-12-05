@@ -1,0 +1,17 @@
+commit 667a352937affb5b7f3258f280c2a4c79378d9c5
+Author: Douglas Sanchez <isadodgers13@gmail.com>
+Date:   Thu Dec 4 17:32:32 2025 -0700
+
+    Added ReadME
+
+commit c147e1d3c74566ba7fe689e10fefd7846b948369
+Author: Douglas Sanchez <isadodgers13@gmail.com>
+Date:   Thu Dec 4 17:11:28 2025 -0700
+
+    Filled in the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
